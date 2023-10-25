@@ -1,4 +1,9 @@
 first edition
 second edition -- edit
 third edition ------ edit!!!
+<<<<<<< HEAD
 issue closed perfectly
+=======
+issue solved
+
+>>>>>>> testing
