@@ -6,4 +6,4 @@ issue closed perfectly
 =======
 issue solved
 
->>>>>>> testing
+hotfix my solution
